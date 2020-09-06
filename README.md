@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Data Analytics, Reportion, extraction
+- 🔭 I’m currently working on Data Analytics, reporting, extraction
 - 🌱 I’m currently learning Machine Learning, and Big Data
 - 🤔 I’m looking for help with getting freelance work, and open for job offers
 <!--
