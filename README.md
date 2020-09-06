@@ -2,7 +2,8 @@
 - 🔭 I’m currently working on Data Analytics, reporting, extraction
 - 🌱 I’m currently learning Machine Learning, and Big Data
 - 🤔 I’m looking for help with getting freelance work, and open for job offers
-- 📫 How to reach me: https://miteshpandav.github.io/Resume/
+- 📫 My CV: https://miteshpandav.github.io/Resume/
+- Reach me at pandav.mitesh@live.com
 <!--
 **MiteshPandav/MiteshPandav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
