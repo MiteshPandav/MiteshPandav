@@ -1,4 +1,5 @@
 ## Hey 👋, I'm Mitesh Pandav!
+I love coding in Python :snake:. I work at [Reorg](https://reorg.com) as a Python Developer.
 - 🔭 I’m currently working on Web scraping, and Data engineering.
 - 🌱 I’m currently learning BigData, and Machine Learning.
 - 📫 My CV: https://miteshpandav.github.io/Resume/
